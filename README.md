@@ -290,5 +290,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## Contact
 
 **Nithin**
-GitHub: [@sunny-1807](https://github.com/sunny-1807)
+GitHub: [@nithin1028](https://github.com/nithin10287)
 Repository: [My-Project](https://github.com/sunny-1807/My-Project)
