@@ -1,0 +1,7 @@
+export const modules=[
+ {id:'python',number:'01',title:'Python for Data Science',description:'Build a strong foundation in Python programming and the scientific computing ecosystem.',topics:['Python fundamentals','NumPy arrays','Pandas dataframes','Jupyter workflows'],materials:['python-intro','numpy-basics','pandas-fundamentals'],progress:72},
+ {id:'preprocessing',number:'02',title:'Data Collection & Preprocessing',description:'Collect, clean, transform, and prepare reliable datasets for meaningful analysis.',topics:['Data collection','Missing values','Feature engineering','Data pipelines'],materials:['data-prep','pandas-fundamentals'],progress:48},
+ {id:'eda',number:'03',title:'Exploratory Data Analysis',description:'Discover patterns, distributions, and relationships through systematic investigation.',topics:['Descriptive statistics','Correlation','Outlier analysis','Storytelling'],materials:['eda-notes','pandas-fundamentals'],progress:35},
+ {id:'visualization',number:'04',title:'Data Visualization',description:'Communicate insights with clear, thoughtful, and effective visual representations.',topics:['Matplotlib','Seaborn','Chart selection','Visual storytelling'],materials:['visualization-guide','eda-notes'],progress:20},
+ {id:'ml',number:'05',title:'Machine Learning',description:'Train and evaluate models that learn useful patterns from data.',topics:['Supervised learning','Model evaluation','Feature selection','Scikit-learn'],materials:['ml-notes','python-intro'],progress:12}
+];
