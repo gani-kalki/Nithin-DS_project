@@ -1,15 +1,14 @@
 const student = {
-  studentId: "YOUR_STUDENT_ID",
-  name: "Sriram",
+  name: "Nithin",
   rollNumber: "24102A030077",
   branch: "Data Science",
   section: "DS-2",
   faculty: {
-    name: "FACULTY NAME",
-    designation: "FACULTY DESIGNATION"
+    name: "S.BosuBabu",
+    designation: "Asst Professor"
   },
-  github: "YOUR_GITHUB_URL",
-  linkedin: "YOUR_LINKEDIN_URL"
+  github: "https://github.com/nithin1028",
+  linkedin: "https://www.linkedin.com/in/t-g-nithin-278554330/?isSelfProfile=true"
 };
 
 export default student;
